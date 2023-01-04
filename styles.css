@@ -1,4 +1,7 @@
 /* Page 1 */
+body{
+  text-align: center;
+}
 
 label {
   font-family: 'Ubuntu';
