@@ -1,0 +1,94 @@
+/* Page 1 */
+
+label {
+  font-family: 'Ubuntu';
+  font-weight: bold;
+  color: #fff;
+  padding: 10px;
+  font-size: 20px;
+}
+
+.container-page1{
+  width: 70%;
+    margin: auto;
+    text-align: center;
+    padding: 4%;
+}
+
+input{
+  font-family: 'Ubuntu';
+  width: 160px;
+}
+
+h2 {
+  font-family: 'Ubuntu';
+  font-weight: bold;
+  color: #F7A4A4; // #F0DBDB
+  padding: 10px;
+  text-align: center;
+}
+
+.button-submit{
+  width: 100px;
+  font-size: 20px;
+  margin: 25px;
+}
+
+
+/* Page 2 */
+
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+body {
+  background-color: #393E46;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #4ECCA3;
+  text-align: center;
+}
+
+.refresh {
+  margin: 30px;
+  font-family: 'Ubuntu';
+  font-size: 1.5rem;
+  color: #EEEEEE;
+  text-align: center;
+  padding: 20px;
+  font-weight: bold;
+}
+
+.refresh-button {
+  width: 120px;
+  font-size: 25px;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 4%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+}
